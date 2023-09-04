@@ -55,4 +55,4 @@ To get started with this project locally, follow these steps:
 
 ## Usage 
 
-You can access the website online by visiting https://harshikas21.github.io/comet-creators-/
+You can access the website online by visiting https://harshikas21.github.io/Comet-Creators-/
